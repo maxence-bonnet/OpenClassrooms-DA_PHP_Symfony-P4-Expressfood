@@ -1,0 +1,12 @@
+Avoir un historique des menus :
+donc nouvelle table / classe avec par exemple 4 id de plats et 1 date :
+
+date, id_plat_1, id_plat_2, id_dessert_1, id_dessert_2
+
+à noter que c'est une classe que j'avais intégrée au départ mais que mon mentor m'a suggéré de supprimer puisque sans intérêt (mais pas pour tout le monde apparemment).
+
+historique des positions des livreurs :  [...]
+
+
+
+
