@@ -13,6 +13,9 @@ Même si ça n'est précisé nul part dans mission, il est judicieux de prépare
 Même si la partie conception / UML peut-être perçue comme ennuyeuse, pensez bien qu'elle vous sera indispensable pour tous les projets qui vont suivre, il est donc important de bien assimiler les concepts et de ne pas passer trop vite dessus. :innocent:
 
 
+Les diagrammes de cas d'utilisations, séquences, classe ont été réalisés avec : https://cacoo.com/
+Le modèle physique de données a été construit sur la page Concepteur de phpMyAdmin, après avoir préalablement créé toutes les tables.
+
 # Concevez la solution technique d'une application de restauration en ligne, ExpressFood
 
 ## Mission :
